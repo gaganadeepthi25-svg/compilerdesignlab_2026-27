@@ -52,4 +52,3 @@ inp = '10-2*3+2*5'
 result = parser.parse(lexer.tokenize(inp))
 print(result)
 
-
