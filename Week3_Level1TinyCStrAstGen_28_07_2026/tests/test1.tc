@@ -1,0 +1,8 @@
+int main()
+{
+int a,b,c;
+a=20;
+b=40;
+c=a*b+a/b+a%b+a-b-35+42;
+print c;
+}
